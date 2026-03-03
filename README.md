@@ -1,102 +1,148 @@
-# 🚀 Arya Mukherjee
+<!-- ======================= FUTURISTIC BANNER ======================= -->
 
-💡 AI-Focused Full Stack Developer | Data Science Enthusiast | Open Source Contributor  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Arya%20Mukherjee&fontSize=60&color=0:0f2027,50:203a43,100:2c5364&stroke=00F7FF&strokeWidth=1&fontColor=E0FFFF&animation=fadeIn&desc=AI%20Systems%20Engineer%20•%20Full%20Stack%20Architect%20•%20Open%20Source&descSize=18&descAlignY=70"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+Hybrid+Graph+RAG+Architectures;Building+AI-Native+Products;Scalable+Systems+%3E+Viral+Demos;Depth+%3E+Hype" />
+</p>
+
+---
+
+# ⚡ Minimal. Elite. Systems-Focused.
+
+AI-focused Full Stack Engineer building production-grade intelligent systems.
+
 🎓 B.Tech + B.Sc. in Data Science (IITM)  
-⚡ Building scalable AI systems, intelligent products & production-ready full-stack apps  
+🔬 Research-oriented AI builder  
+🚀 Product-driven system architect  
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 Hardcore AI Research Focus
 
-I design and build AI-powered applications, scalable backend systems, and modern frontend architectures.
+### Current Research Direction
 
-My focus areas:
-- 🤖 Retrieval-Augmented Generation (RAG) Systems
-- 🧠 Knowledge Graph + Semantic AI Architectures
-- 🌐 Full Stack Development (React, Next.js, TypeScript)
-- ⚙️ Backend Engineering & APIs
-- 🐳 DevOps & Deployment
+- Hybrid **Graph RAG + Semantic RAG** architectures
+- Knowledge Graph construction from dynamic web data
+- Entity extraction pipelines
+- Retrieval optimization & response latency reduction
+- Context compression strategies for LLM inference
+- Production-safe AI deployment patterns
 
-Currently:
-- 🔬 Building Hybrid Graph RAG + Semantic RAG systems
-- 🤝 Contributing to Open Source (Hugging Face Transformers)
-- 🎯 Preparing for GSoC & product-based internships
+### AI Stack
 
----
+- PyTorch
+- NLP systems
+- ChromaDB vector retrieval
+- Neo4j knowledge graphs
+- Groq LLM backend
+- RAG orchestration pipelines
+- Streamlit AI interfaces
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-Java | Python | C | TypeScript | JavaScript
-
-### 🎨 Frontend
-React | Next.js | Tailwind CSS | Vite
-
-### ⚙️ Backend
-Node.js | Express | Supabase | REST APIs
-
-### 🤖 AI / ML
-PyTorch | Scikit-learn | NLP | RAG | Graph RAG | ChromaDB
-
-### 🗄 Databases
-PostgreSQL | Neo4j | Supabase
-
-### 🚀 DevOps & Tools
-Docker | Git | GitHub Actions | Linux | Vercel
+> Focus: Not just using LLMs — engineering systems around them.
 
 ---
 
-## 🌟 Featured Projects
+# 🏗 FAANG-Style Engineering Principles
+
+- Clean architecture > framework hype
+- Strong typing (TypeScript-first)
+- API contract clarity
+- Scalable backend patterns
+- Observability & structured logging
+- Security-first authentication
+- Deployment-ready from Day 1
+
+Tech:
+
+```
+Languages: Java | Python | C | TypeScript | JavaScript  
+Frontend: React | Next.js | Tailwind  
+Backend: Node.js | Express | REST APIs  
+Database: PostgreSQL | Neo4j | Supabase  
+DevOps: Docker | GitHub Actions | Linux | Vercel
+```
+
+---
+
+# 🚀 Startup Founder Mode
+
+I build systems that can scale into products.
 
 ### 🧠 AI Knowledge Graph Help Bot
-- Hybrid Graph RAG + Semantic RAG architecture
-- Knowledge graph construction from scraped data
+- Hybrid Graph + Semantic RAG
 - Neo4j + ChromaDB integration
 - Groq LLM backend
-- Unified Streamlit UI
+- Unified retrieval orchestration
+- Optimized latency pipeline
 
 ### 🚗 WiFi Controlled Rover Interface
-- Interactive React-based control dashboard
-- Gamepad integration
-- Real-time camera streaming
-- 3D coordinate visualization
+- Real-time React dashboard
+- Gamepad control integration
+- Live camera streaming
 - ESP8266 backend communication
+- Clean 3D visualization UI
 
 ### 📊 Analytics Dashboard
-- Secure authentication system
-- Role-based dashboard views
-- Supabase backend integration
-- Production deployment on Vercel
+- Secure authentication
+- Role-based access
+- Supabase backend
+- Production deployment
 
 ---
 
-## 📈 Goals
+# 📈 Mission
 
-- 🚀 Google Summer of Code
-- 💼 Product-based company internships
-- 💻 Freelancing (AI + Full Stack)
-- 🧠 Deep expertise in Probability & Statistics
-
----
-
-## 🏆 Open Source
-
-- Contributed to Hugging Face Transformers
-- Improved documentation & model cards
-- Worked on MLFlow callback fixes
+- Google Summer of Code
+- Elite product internships
+- AI-native startup building
+- Deep expertise in Probability & Statistics
+- Advanced AI systems research
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Open Source
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🧑‍💻 GitHub: https://github.com/your-username
-- 📧 Email: your-email@example.com
+Contributions in:
+- Hugging Face Transformers
+- Model documentation standardization
+- MLFlow callback improvements
+- Technical documentation upgrades
 
 ---
 
-# ⚡ Philosophy
+# 📊 GitHub Performance
 
-> Build. Break. Improve. Repeat.  
-> Systems > Tutorials  
-> Depth > Hype
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+# 🧬 Engineering Philosophy
+
+```
+Build systems, not demos.
+Optimize for scale, not applause.
+Design for failure.
+Measure latency.
+Own the full stack.
+Ship.
+```
+
+---
+
+# 🌐 Connect
+
+LinkedIn: https://linkedin.com/in/your-link  
+GitHub: https://github.com/your-username  
+Email: your-email@example.com  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
