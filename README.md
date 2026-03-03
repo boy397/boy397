@@ -116,8 +116,8 @@ Contributions in:
 # 📊 GitHub Performance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boy397&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=boy397&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
