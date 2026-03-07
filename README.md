@@ -1,148 +1,79 @@
-<!-- ======================= FUTURISTIC BANNER ======================= -->
+# 🚀 Arya Mukherjee
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Arya%20Mukherjee&fontSize=60&color=0:0f2027,50:203a43,100:2c5364&stroke=00F7FF&strokeWidth=1&fontColor=E0FFFF&animation=fadeIn&desc=AI%20Systems%20Engineer%20•%20Full%20Stack%20Architect%20•%20Open%20Source&descSize=18&descAlignY=70"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+Hybrid+Graph+RAG+Architectures;Building+AI-Native+Products;Scalable+Systems+%3E+Viral+Demos;Depth+%3E+Hype" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer;Data+Science+Student+@+IIT+Madras;Building+AI+%26+Scalable+Systems;Open+Source+Contributor" />
 </p>
 
 ---
 
-# ⚡ Minimal. Elite. Systems-Focused.
+## 👨‍💻 Career Summary
 
-AI-focused Full Stack Engineer building production-grade intelligent systems.
+Results-driven **Computer Science student** with strong expertise in **algorithms, software development, and artificial intelligence**. Skilled in **Java, Python, and C**, with experience in **full-stack development and scalable system design**.  
 
-🎓 B.Tech + B.Sc. in Data Science (IITM)  
-🔬 Research-oriented AI builder  
-🚀 Product-driven system architect  
+Experienced in building **ML and NLP-based applications**, implementing **RAG systems**, and developing **production-ready platforms** with clean architecture and modern engineering practices.
 
 ---
 
-# 🧠 Hardcore AI Research Focus
+## 🛠 Tech Skills
 
-### Current Research Direction
+**Languages**
 
-- Hybrid **Graph RAG + Semantic RAG** architectures
-- Knowledge Graph construction from dynamic web data
-- Entity extraction pipelines
-- Retrieval optimization & response latency reduction
-- Context compression strategies for LLM inference
-- Production-safe AI deployment patterns
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
 
-### AI Stack
+**Backend & APIs**
 
-- PyTorch
-- NLP systems
-- ChromaDB vector retrieval
-- Neo4j knowledge graphs
-- Groq LLM backend
-- RAG orchestration pipelines
-- Streamlit AI interfaces
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
+![REST](https://img.shields.io/badge/REST_API-111?style=for-the-badge)
 
-> Focus: Not just using LLMs — engineering systems around them.
+**AI / ML**
 
----
+![NLP](https://img.shields.io/badge/NLP-111?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111?style=for-the-badge)
 
-# 🏗 FAANG-Style Engineering Principles
+**Databases & Tools**
 
-- Clean architecture > framework hype
-- Strong typing (TypeScript-first)
-- API contract clarity
-- Scalable backend patterns
-- Observability & structured logging
-- Security-first authentication
-- Deployment-ready from Day 1
-
-Tech:
-
-```
-Languages: Java | Python | C | TypeScript | JavaScript  
-Frontend: React | Next.js | Tailwind  
-Backend: Node.js | Express | REST APIs  
-Database: PostgreSQL | Neo4j | Supabase  
-DevOps: Docker | GitHub Actions | Linux | Vercel
-```
+![Postgres](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 
 ---
 
-# 🚀 Startup Founder Mode
-
-I build systems that can scale into products.
-
-### 🧠 AI Knowledge Graph Help Bot
-- Hybrid Graph + Semantic RAG
-- Neo4j + ChromaDB integration
-- Groq LLM backend
-- Unified retrieval orchestration
-- Optimized latency pipeline
-
-### 🚗 WiFi Controlled Rover Interface
-- Real-time React dashboard
-- Gamepad control integration
-- Live camera streaming
-- ESP8266 backend communication
-- Clean 3D visualization UI
-
-### 📊 Analytics Dashboard
-- Secure authentication
-- Role-based access
-- Supabase backend
-- Production deployment
-
----
-
-# 📈 Mission
-
-- Google Summer of Code
-- Elite product internships
-- AI-native startup building
-- Deep expertise in Probability & Statistics
-- Advanced AI systems research
-
----
-
-# 🏆 Open Source
-
-Contributions in:
-- Hugging Face Transformers
-- Model documentation standardization
-- MLFlow callback improvements
-- Technical documentation upgrades
-
----
-
-# 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boy397&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=boy397&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=boy397&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boy397&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🧬 Engineering Philosophy
+## 🔗 Connect With Me
 
-```
-Build systems, not demos.
-Optimize for scale, not applause.
-Design for failure.
-Measure latency.
-Own the full stack.
-Ship.
-```
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/mukherjee-arya">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+</a>
 
-# 🌐 Connect
+<a href="mailto:aryamukherjee397@gmail.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+</a>
 
-LinkedIn: https://linkedin.com/in/your-link  
-GitHub: https://github.com/your-username  
-Email: your-email@example.com  
+<a href="https://github.com/boy397">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+⚡ Building AI systems, scalable applications, and impactful technology.
 </p>
