@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK AI BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=250&section=header&text=Arya%20Mukherjee&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20IITM%20Data%20Science&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=250&section=header&text=Arya%20Mukherjee&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20"/>
 </p>
 
 <p align="center">
