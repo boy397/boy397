@@ -47,23 +47,6 @@
 
 ---
 
-# 📊 Advanced Analytics Dashboard
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boy397&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=boy397&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boy397&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=boy397&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🐍 Contribution Matrix
 
 <p align="center">
