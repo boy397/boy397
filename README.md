@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=3" />
+      <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&perline=3" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,express,nodejs&perline=3" />
